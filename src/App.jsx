@@ -1,4 +1,4 @@
-import Container from "./lessons/1.Le-JSX/Container"
+import Container from "./lessons/2.Premier-composant/Container"
 
 function App() {
 
